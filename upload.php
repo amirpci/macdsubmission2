@@ -178,7 +178,7 @@ if ($uploadOk == 0) {
         // **********************************************
  
         // Replace <Subscription Key> with your valid subscription key.
-        var subscriptionKey = "b6da46afa4674becbb68c8198544e342";
+        var subscriptionKey = "8b0c7f6b54fb42dc9be58f00bbf3fd7c";
  
         // You must use the same Azure region in your REST API method as you used to
         // get your subscription keys. For example, if you got your subscription keys
